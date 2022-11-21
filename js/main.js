@@ -4,19 +4,9 @@ createApp({
     data() {
         return {
             //STRINGHE
-
-            //NUMERI
-
-            //BOOLEANI
-
-            //ARRAY
-
-            //OGGETTI
-
+            centerChilds: 'd-flex justify-content-center align-items-center text-center flex-wrap',
+            img: 'img/04.webp',
+            txt:'Hello World!'
         };
-    },
-    // ************ FUNZIONI ************
-    methods: {
-
     }
 }).mount('#my-app');
